@@ -1,7 +1,7 @@
 # 2017summer in ChungLab
 
 # Week 1
-#6/22Thu Python, Machine Learning - 1. Intro 2. NB(Naive Bayes) "\n"
+#6/22Thu Python, Machine Learning - 1. Intro 2. NB(Naive Bayes)
 #6/23Fri Python, Machine Learning - 2. NB
 
 # Week 2
