@@ -8,3 +8,5 @@
 #6/26Mon Machine Learning - 3. SVM(Support Vector Machine), 4. DTs(Decision Trees)
 #6/27Tue Machine Learning - 5. Other Supervised Algorithms - k-NN(k-nearest neighbors), ensemble => RF(random forest), Adaboost
 #6/28Wed Machine Learning - 6. Enron Datasets 
+#6/29Thu Research Plan
+#6/30Fri Machine Learning - 7. Regressions in Continuous Supervised Learning
