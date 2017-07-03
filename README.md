@@ -5,8 +5,11 @@
 #6/23Fri Python, Machine Learning - 2. NB
 
 # Week 2
-#6/26Mon Machine Learning - 3. SVM(Support Vector Machine), 4. DTs(Decision Trees)
-#6/27Tue Machine Learning - 5. Other Supervised Algorithms - k-NN(k-nearest neighbors), ensemble => RF(random forest), Adaboost
-#6/28Wed Machine Learning - 6. Enron Datasets 
-#6/29Thu Research Plan
-#6/30Fri Machine Learning - 7. Regressions in Continuous Supervised Learning
+#6/26Mon - 3. SVM(Support Vector Machine), 4. DTs(Decision Trees)
+#6/27Tue - 5. Other Supervised Algorithms - k-NN(k-nearest neighbors), ensemble => RF(random forest), Adaboost
+#6/28Wed - 6. Enron Datasets 
+#6/29Thu - Research Plan
+#6/30Fri - 7. Regressions in Continuous Supervised Learning, 8. Outlier Rejection
+
+#Week 3
+#7/3Mon 8. Outlier Rejection, 9. Clustering(K-Means)
