@@ -12,4 +12,5 @@
 #6/30Fri - 7. Regressions in Continuous Supervised Learning, 8. Outlier Rejection
 
 #Week 3
-#7/3Mon 8. Outlier Rejection, 9. Clustering(K-Means)
+#7/3Mon - 8. Outlier Rejection, 9. Clustering(K-Means)
+#7/4Tue - 10. Feature Scaling(MinMaxScaler) 11. Text Learning(TfidfVectorizer)
