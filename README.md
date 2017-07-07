@@ -12,8 +12,8 @@
 # 6/30Fri - 7. Regressions in Continuous Supervised Learning, 8. Outlier Rejection
 
 # <Week 3>
-# 7/3 Mon - 8. Outlier Rejection, 9. Clustering(K-Means)
-# 7/4 Tue - 10. Feature Scaling(MinMaxScaler) 11. Text Learning(TfidfVectorizer)
+# 7/3Mon - 8. Outlier Rejection, 9. Clustering(K-Means)
+# 7/4Tue - 10. Feature Scaling(MinMaxScaler) 11. Text Learning(TfidfVectorizer)
 # 7/5Wed – 12. Feature Selection(Lasso Regression, feature_importances_)
-# 7/6Thu - 13. PCA
-# 7/7Fri - 14. Cross Validation(train_test_split, K-Fold CV, GridSearchCV)
+# 7/6Thu - 13. PCA(Principal Component Analysis) *Face Recognition
+# 7/7Fri - 14. Cross Validation(train_test_split, K-Fold CV, GridSearchCV), 15. Evaluation Metrics(Precision, Recall, F1_score)
