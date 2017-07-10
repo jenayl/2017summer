@@ -19,4 +19,4 @@
 # 7/7Fri - 14. Cross Validation(train_test_split, K-Fold CV, GridSearchCV), 15. Evaluation Metrics(Precision, Recall, F1_score)
 
 # <Week 4>
-# 7/10Mon - Face Recognition Dataset Download
+# 7/10Mon - Face Dataset Download
