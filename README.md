@@ -17,3 +17,6 @@
 # 7/5Wed – 12. Feature Selection(Lasso Regression, feature_importances_)
 # 7/6Thu - 13. PCA(Principal Component Analysis) *Face Recognition
 # 7/7Fri - 14. Cross Validation(train_test_split, K-Fold CV, GridSearchCV), 15. Evaluation Metrics(Precision, Recall, F1_score)
+
+# <Week 4>
+# 7/10Mon - Face Recognition Dataset Download
