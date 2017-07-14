@@ -22,4 +22,4 @@
 - **7/10Mon** Face Dataset Download
 - **7/11Tue** CelebA
 - **7/12Wed** sklearn digits - PCA, t-SNE, DBSCAN, k-MEANS
-- **7/14Thu** MNIST => feature selection? scatter colormap? validation method? 
+- **7/14Fri** MNIST => feature selection? scatter colormap? validation method? 
